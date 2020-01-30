@@ -1,2 +1,3 @@
 Fitxer de prova
-Actualitzaci� 1
+Actualització 1
+Actualització 2
